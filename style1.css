@@ -27,7 +27,9 @@ body {
   max-width: 1408px;
   text-align: right;
 }
-
+.photo{
+  text-align: center;
+}
 .page-header a {
   margin-left: 56px;
   color: #fea18d;
